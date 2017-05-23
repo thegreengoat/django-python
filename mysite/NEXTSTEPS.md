@@ -1,7 +1,5 @@
 Next steps:
 
-Commit to Git
-
 Index page
 Table contains Ticker, Allocation, Latest Price, Value of Position
 Total portfolio value containe in footer
